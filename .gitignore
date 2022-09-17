@@ -1,2 +1,2 @@
-./zig-cache
-./zig-out
+./src/zig-cache
+./src/zig-out
